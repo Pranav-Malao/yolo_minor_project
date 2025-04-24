@@ -11,8 +11,8 @@ st.title("🥗 Vegetable Detection App (YOLO)")
 
 # ------------------ Download models if not exist ------------------
 MODELS = {
-    "YOLOv8 Model": ("final_v8s.pt", "https://drive.google.com/uc?id=1rxT3IlsI6su5hKidPO3cX5QO1Jc77BUb"),
     "YOLOv11 Model": ("final_11s.pt", "https://drive.google.com/uc?id=1VIbH0YrC89XGSIF3imoghsMi-EkupjQJ"),
+    "YOLOv8 Model": ("final_v8s.pt", "https://drive.google.com/uc?id=1rxT3IlsI6su5hKidPO3cX5QO1Jc77BUb"),
     "old 11s": ("best11s.pt", "https://drive.google.com/uc?id=1XyQoYHQTxqz5xne1MEbVxAEIvNJF-mvu"),
     "old v8s": ("bestv8s.pt", "https://drive.google.com/uc?id=1KGREDDEfEdFYNWsTxu3fw0QRfwYEqBi4")
     
